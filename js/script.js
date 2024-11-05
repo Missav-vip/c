@@ -1,1 +1,4 @@
-// JavaScript code for general site functionality can be added here
+// JavaScript code for enhanced security and user experience can be added here.
+document.addEventListener('DOMContentLoaded', function() {
+    // Future JavaScript functionalities can be implemented here.
+});
